@@ -1,10 +1,49 @@
-/* your CSS goes into this file. For example:
+ h1 {
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: x-large;
+line-height: 150%;
+color: blueviolet;
 
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+ }
+
+h2 {
+text-align: left;
+font-style: initial;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: x-large;
+line-height: 150%;
+color: cornflowerblue;
+
 }
 
-btw, this is a CSS comment. Feel free to delete it.
+h3 {
+text-align: left;
+color: darkblue;
+line-height: normal;
+font-size: large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+text-decoration: underline;
+}
 
- */
+
+p {
+font-style: normal;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+text-align: center;
+line-height: 150%;
+color: black;
+
+
+}
+
+li {
+
+  list-style-type: square;
+list-style-position: inside;
+margin: 1em;
+color: gray;
+line-height: normal;
+}
